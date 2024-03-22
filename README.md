@@ -1,29 +1,5 @@
-Dessert Clicker app
-=====================
+This is an application in which the user taps on the displayed dessert, increasing the desserts sold and total revenue value.
+Upon reaching certain thresholds, the image will change (potentially showing 7 different images).
 
-Code for Android Basics with Compose Codelab.
-
-Introduction
-------------
-
-Dessert Clicker is a game about making desserts.
-
-Press the button, make a dessert, earn the big bucks.
-
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
-
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
+This application was created by following along the steps noted in:
+https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-viewmodel?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-4-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-practice-viewmodel#0
